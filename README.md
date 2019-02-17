@@ -8,7 +8,7 @@
 ## [www.techsams.com][blog]
 # Angular dynamic component loading
 
-There are many cases where we need to load components dynamically. For example, if you component factory (same kind of components but with different behaviour ) and want to load only one component based on need. Most common situations are loading component in overlay or if you have set of tabs. In this article I am going to use a tab set.
+There are many cases where we need to load components dynamically. For example, if you have component factory (same kind of components but with different behaviour ) and want to load only one component based on need. Most common situations are loading component in overlay or if you have set of tabs. In this article I am going to use a tab set.
 
 Let's assume you have two tabs called **One** and **Two**. **One** tab body is with **TabOneComponent** and **Two** tab body is with **TabTwoComponent**. When user clicks on tabs we want to load appropriate tab body.
 
