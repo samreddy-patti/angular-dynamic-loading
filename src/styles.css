@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+.tab-body{
+  padding: 10px;
+}
+.nav-link a{
+  cursor: pointer;
+}
